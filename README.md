@@ -271,14 +271,16 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   When the program is open we will create a new session in it.
   
 <p>
-<img src="https://imgur.com/g5M1i61.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img width="514" alt="heidi start" src="https://github.com/ikcromer30/OSTICKET-PREREQS-INSTALL/assets/157658949/e2aa9e94-3397-459f-941d-9b8f9235ff54">
+
 </p>
 <p>
   
   We want to make sure the username is root and the password is Password1.
   
 <p>
-<img src="https://imgur.com/LEAZNOc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img width="514" alt="root and pass" src="https://github.com/ikcromer30/OSTICKET-PREREQS-INSTALL/assets/157658949/eba0c5bd-8ce9-4ef8-8b59-e7b8c74c4bed">
+
 </p>
 <p>
   
